@@ -17,7 +17,7 @@ then acknowledge it in your own presentation slides?
 Are you interested in previewing the presentation without having to download the
 code and resources from the GitHub site? Well, you can! Please view [Algorithms
 &#43; Journalism =
-?](http://cdn.rawgit.com/gkapfham/townhall2016-presentation/master/quiqleytownhall_presentation.html).
+?](http://cdn.rawgit.com/nikki-luoma/fs102Spring2017-presentation-1Nikki-Luoma/master/myfirstpreseentation.html).
 
 ## Installation Instructions
 
